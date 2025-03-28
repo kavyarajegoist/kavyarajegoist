@@ -35,18 +35,17 @@ I'm a passionate developer currently diving deep into the MERN stack and machine
 - 🧠 Exploring Advanced JavaScript Concepts
 
 ## 📊 GitHub Stats
-![Kavyaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyarajgeoist&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyarajgeoist&layout=compact&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavyarajgeoist&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kavyarajgeoist&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 ## 🏆 Achievements & Certifications
 - [List any relevant certifications or key achievements]
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyarajgeoist&langs_count=10&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavyaraj-mangrola/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyarajmangrola16@gmail.com)
 
 ## 📌 Pinned Repositories
 [You can add links to your most important repositories here]
