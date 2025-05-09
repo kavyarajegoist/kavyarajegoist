@@ -63,7 +63,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavyarajegoist&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="kavyarajegoist's Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyarajegoist&theme=nightowl&hide_border=true" alt="kavyarajegoist's Streak"/>
+  ![kavyarajegoist's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavyarajegoist&theme=nightowl&hide_border=true)
 </p>
 
 ---
